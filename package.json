@@ -1,9 +1,8 @@
 {
   "name": "myapp1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://anishbhattacharjee.github.io/monsters-search",
-  
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
